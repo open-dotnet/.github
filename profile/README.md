@@ -3,7 +3,7 @@ Back in 2014, .NET was open-sourced. It’s now 2021 and the issue of the [.NET 
 
 > "Product managers don't have the authority to yank something in a release candidate with a go-live license :)" - [Phillip Carter](https://news.ycombinator.com/item?id=28989077)
 
-This situation is so disappointing because .NET is yet to complete its transition to an open programming language. The Ballmeresq cold war with tooling vendors only [harms the ecosystem](https://twitter.com/ReedCopsey/status/1461546064859783170?s=20). The more people who can use .NET and that are attracted to .NET the more Microsoft can sell Azure because there’s great attach rates and uplift between .NET folks and Azure.
+This [situation is so disappointing](https://dusted.codes/can-we-trust-microsoft-with-open-source) because .NET is yet to complete its transition to an open programming language. The Ballmeresq cold war with tooling vendors only [harms the ecosystem](https://twitter.com/ReedCopsey/status/1461546064859783170?s=20). The more people who can use .NET and that are attracted to .NET the more Microsoft can sell Azure because there’s great attach rates and uplift between .NET folks and Azure.
 
 > ".NET, Visual Studio, and Visual Studio Code are all expensive ad campaigns funded by Azure. .NET and Visual Studio have excellent attach rate to Azure" - [msft-throwaway](https://news.ycombinator.com/item?id=28990820)
 
