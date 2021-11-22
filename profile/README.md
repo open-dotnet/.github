@@ -23,4 +23,4 @@ We all know that having openly developed modern and decent IDE extensibility wou
 
 # next steps
 
-Send a pull-request to https://github.com/open-dotnet/.github/blob/master/README.md containing a random emoji to receive an invitation to join this GitHub organisation which enables you to participate in the discussions.
+Send a pull-request to https://github.com/open-dotnet/.github/blob/master/README.md containing a random emoji to receive an invitation to join this GitHub organisation which enables you to participate in the private planning discussions repository.
