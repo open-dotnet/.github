@@ -9,7 +9,7 @@ This [situation is so disappointing](https://dusted.codes/can-we-trust-microsoft
 
 How can Microsoft expect .NET to [compete equally in open source](https://twitter.com/ReedCopsey/status/1461523223535882241) with programming languages where everything is developed in the open and not black boxed or walled off to large demographics of developers? Every marketing activity Microsoft has done with .NET about “we are open-source” is fundamentally lipstick on a pig if there is no unified way to debug programs authored in the language. 
 
-What use is an open-source programming language that can only be debugged with proprietary software? Did you know Rust only has one debugger? Why did [dnSpy](https://github.com/dnSpy/dnSpy), [MonoDevelop](https://www.monodevelop.com), [Linqpad](https://www.linqpad.net), [JetBrains](https://www.jetbrains.com/help/rider/Debugging_Code.html) & [Samsung](https://github.com/Samsung/netcoredbg) have to reinvent the wheel? It's 2021 and the .NET platform is fractured at a foundational level.
+What use is an open-source programming language that can only be debugged with proprietary software? This is not a problem for languages that .NET competes against in mindshare (Golang/Rust). Why did [dnSpy](https://github.com/dnSpy/dnSpy), [MonoDevelop](https://www.monodevelop.com), [Linqpad](https://www.linqpad.net), [JetBrains](https://www.jetbrains.com/help/rider/Debugging_Code.html) & [Samsung](https://github.com/Samsung/netcoredbg) have to reinvent the wheel? It's 2021 and the .NET platform is fractured at a foundational level.
 
 Let's be honest here DevDiv... 
 
