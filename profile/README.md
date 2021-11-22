@@ -21,4 +21,6 @@ What would .NET look like if it didn't lose _that_ generation of brains back in 
 
 We all know that having openly developed modern and decent IDE extensibility would provide fertile ground for innovation (build system integration / debuggers / better integration with open-source projects on GitHub ) in the .NET platform. So why hasn't it happened yet?
 
+# next steps
 
+Send a pull-request to https://github.com/open-dotnet/.github/blob/master/README.md containing a random emoji to receive an invitation to join this GitHub organisation.
