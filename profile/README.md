@@ -25,7 +25,7 @@ We all know that having openly developed modern and decent IDE extensibility wou
 
 # next steps
 
-Send a pull-request to https://github.com/open-dotnet/.github/blob/master/README.md containing a random emoji to receive an invitation to join this GitHub organisation, join the [.NET evolution discord community](https://aka.ms/dotnet-discord) and [participate in the discussions](https://github.com/open-dotnet/.github/issues/7).
+Send a pull-request to https://github.com/open-dotnet/.github/blob/master/README.md containing a random emoji to receive an invitation to join this GitHub organisation, join the [.NET evolution discord community](https://aka.ms/dotnet-discord) (look for the #opendotnet room) and [participate in the discussions](https://github.com/open-dotnet/.github/issues/7).
 
 # social media
 
