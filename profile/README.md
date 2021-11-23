@@ -29,4 +29,4 @@ Send a pull-request to https://github.com/open-dotnet/.github/blob/master/README
 
 # social media
 
-<a href="https://twitter.com/opendotnet?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @opendotnet</a>
+<a href="https://twitter.com/opendotnet?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @opendotnet</a> on Twitter.
