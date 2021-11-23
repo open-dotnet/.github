@@ -29,4 +29,4 @@ Send a pull-request to https://github.com/open-dotnet/.github/blob/master/README
 
 # social media
 
-<a class="twitter-timeline" href="https://twitter.com/opendotnet?ref_src=twsrc%5Etfw">Tweets by opendotnet</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/opendotnet?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @opendotnet</a>
